@@ -3,11 +3,11 @@
 This project analyzes the factors influencing singles tennis match outcomes on hard court and evaluates machine learning models for match prediction using ATP and WTA US Open dataset (2019-2024). A set of difference-based features are engineered to capture relative player performance, including rally consistency, serve performance, return performance and performance under pressure.
 
 ## Data Source
-Data is sourced from Jeff Sackmann's Tennis Abstract repository:
+Data is sourced from Jeff Sackmann's repository:
 
-https://github.com/JeffSackmann
+[https://github.com/JeffSackmann](https://github.com/JeffSackmann/tennis_slam_pointbypoint)
 
-Use the US Open point-by-point datasets from 2019–204.
+Use the US Open point-by-point datasets from 2019–204; also use US Open matches datasets to create the tour column which indicates its a ATP or WTA match.
 
 ## Key Findings
 
