@@ -32,7 +32,7 @@ Use the US Open point-by-point datasets from 2019–204; also use US Open matche
 
 A detailed report including methodology, analysis, and conclusions is available here:
 
-[Read the full report](report/tennis-analytics-usopen.pdf)
+[Read the full report](report/final-report.pdf)
 
 ## License
 Code in this repository is licensed under the MIT License.
